@@ -1,3 +1,6 @@
+Author: Maurie Zhang
+Date: 08/07/2024
+
 This is a skeleton of HTML5 I learned through freeCodeCamp's HTML5 crashcourse. 
 https://www.youtube.com/watch?v=kUMe1FH4CHE
 
